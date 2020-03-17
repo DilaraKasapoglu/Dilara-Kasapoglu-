@@ -1,0 +1,60 @@
+* {margin: 0; padding: 0;
+	font-family: 'Indie Flower', cursive;
+}
+
+body {
+    background-image: url(images/pattern.jpg);
+    background-size: cover;
+}
+.my-class {
+    background-color: #94C0E0;
+    width: 42px;
+    border-radius: 10px;
+    height: 26px;
+	font-family: 'Indie Flower', cursive;
+    font-size: large;
+    font-weight: bold;
+}
+body h1 {
+    background-color: #D6C962;
+    background-size: auto auto;
+	font-family: 'Indie Flower', cursive;
+   
+}
+body p {
+    background-color: #EEC869;
+    background-size: auto auto;
+    width: 181px;
+    height: 66px;
+    min-width: 275px;
+    min-height: 7px;
+    font-family: 'Indie Flower', cursive;
+    font-style: normal;
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+}
+.border {
+    background-image: url(images/sbanner.jpg);
+	color: palevioletred;
+	border: 1px solid blue;
+	background-color: lightblue 
+	padding: 0,5cm;
+	text-align: center;
+	
+	
+}
+
+
+.blocktext {
+	margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
+
+.displayes {
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+

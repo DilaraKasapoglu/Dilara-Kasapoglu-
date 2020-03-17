@@ -1,0 +1,45 @@
+@charset "UTF-8";
+* {margin: 0; padding: 0;}
+
+body h1 {
+	font-family: 'Indie Flower', cursive;
+	color: lightblue;
+	border: 1px black;
+	background-color: black;
+	padding: 0.5cm;
+	text-align: center;
+}
+body {
+    background-image: url(images/stars.jpg);
+	color: lightblue;
+	border: 1px black;
+	background-color: black;
+	padding: 0.5cm;
+	text-align: center;
+	
+}
+.btn.btn-primary {
+    background-color: lightblue;
+    color: black;
+    border-color: #ADD8E6;	
+}
+.btn.btn-secondary {
+	background-color: lightblue;
+    color: black;
+    border-color: #ADD8E6;
+}
+.btn.btn-success {
+	background-color: lightblue;
+    color: black;
+    border-color: #ADD8E6;
+}
+.btn.btn-danger {
+	background-color: lightblue;
+    color: black;
+    border-color: #ADD8E6;
+}
+.dropdown #dropdownMenuButton {
+	background-color: black;
+    color: lightblue;
+    border-color: #000000;
+}
