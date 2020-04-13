@@ -1,0 +1,68 @@
+@charset "UTF-8";
+.container .text-center.m-2 {
+	font-family: 'Indie Flower', cursive;
+	color: lightblue;
+	border: 1px black;
+	background-color: black;
+	padding: 0.5cm;
+	text-align: center;
+}
+
+	
+.row.m-2 .col-12.col-sm-6.col-lg-3.bg-dark .text-center {
+	color: lightblue;
+	
+}
+.row.m-2 .col-12.col-sm-6.col-lg-3.bg-info .text-center {
+	color: lightblue;
+	
+}
+.row.m-2 .col-12.col-sm-6.col-lg-3.bg-secondary .text-center {
+	color: lightblue;
+	
+}
+body {
+    background-color: #E6DC96;    
+		
+}
+.row.m-2 .col-12.col-sm-6.col-lg-3.bg-transparent .displayes {
+}
+.row.m-2 .col-12.col-sm-6.col-lg-3.bg-dark .text-justify {
+    text-align: justify;
+}
+.row.m-2 .col-12.col-sm-6.col-lg-3.bg-light .text-center {
+	color: lightblue;
+}
+.col-12.col-sm-6.col-lg-3.bg-dark a .btn.btn-light {
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+    width: 5cm;
+    height: 1 cm;
+    background-color: #E6DC96;	
+ 
+}
+.col-12.col-sm-6.col-lg-3.bg-light a .btn.btn-light {
+	text-align: center;
+    font-style: italic;
+    font-size: small;
+    width: 5cm;
+    height: 1 cm;
+	background-color: #E6DC96;
+}
+.col-12.col-sm-6.col-lg-3.bg-info a .btn.btn-light {
+	text-align: center;
+    font-style: italic;
+    font-size: small;
+    width: 5cm;
+    height: 1 cm;
+	background-color: #E6DC96;
+}
+.col-12.col-sm-6.col-lg-3.bg-secondary a .btn.btn-light {
+	text-align: center;
+    font-style: italic;
+    font-size: small;
+    width: 5cm;
+    height: 1 cm;
+	background-color: #E6DC96;
+}
